@@ -1,5 +1,4 @@
-## Hi there 👋
-I am Kiran
+# Hi, I'm Kiran 👋
 
 <!--
 **Kiran-velan/Kiran-velan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

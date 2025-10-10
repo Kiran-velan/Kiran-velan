@@ -6,7 +6,7 @@
 
 ## 🚀 Featured Projects
 
-1. 🎯 **[ConsensusWorks]([https://github.com/Kiran-velan/ConsensusWorks-Collective_Decision_Making_Platform])**  
+1. 🎯 **[ConsensusWorks](https://github.com/Kiran-velan/ConsensusWorks-Collective_Decision_Making_Platform)**  
    🤖 Startup Project – currently under wraps. Stay tuned for the promo!
 
 2. 💬 **[SmartScribe](https://github.com/Kiran-velan/SmartScribe)**  

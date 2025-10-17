@@ -53,7 +53,7 @@
 
 ## 📊 Github Stats
 
-<img width="350" height="200" alt="Screenshot 2025-07-14 193634" src="https://github.com/user-attachments/assets/6d24d5cd-d1dc-448d-942a-ec556ebb244a" />  <img width="250" height="155" alt="Screenshot 2025-07-14 194328" src="https://github.com/user-attachments/assets/cfbd038d-6985-4c48-bea5-0b6416bacf32" />  <img width="130" height="155" alt="Screenshot 2025-07-14 194800" src="https://github.com/user-attachments/assets/acca4d7b-8a5f-4fbd-a71a-dca760c554e7" />
+<img width="350" height="200" alt="Screenshot 2025-07-14 193634" src="https://github.com/user-attachments/assets/6d24d5cd-d1dc-448d-942a-ec556ebb244a" />  <img width="250" height="155" alt="Screenshot 2025-07-14 194328" src="https://github.com/user-attachments/assets/cfbd038d-6985-4c48-bea5-0b6416bacf32" />
 
 ---
 

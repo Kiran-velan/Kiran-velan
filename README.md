@@ -7,7 +7,7 @@
 ## 🚀 Featured Projects
 
 1. 🎯 **[ConsensusWorks](https://github.com/Kiran-velan/ConsensusWorks-Collective_Decision_Making_Platform)**  
-   🤖 Startup Project – currently under wraps. Stay tuned for the promo!
+   🤖 Startup Project – currently under wraps. Visit **[here](https://consensusworks-production.up.railway.app/)**  to experience.
 
 2. 💬 **[SmartScribe](https://github.com/Kiran-velan/SmartScribe)**  
    🎙️ AI-Powered Transcription Suite - Transcribe, Translate, and Talk with AI

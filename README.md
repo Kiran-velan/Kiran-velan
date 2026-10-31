@@ -153,6 +153,7 @@ CGPA: 8.25 / 10
 ## 📫 Connect With Me
 
 - **GitHub:** [Kiran-velan](https://github.com/Kiran-velan)
+- - **GitHub:** [qure-kiran](https://github.com/qure-kiran)
 - **LinkedIn:** [Kiran](https://www.linkedin.com/in/kiran-cse/)
 - **Portfolio:** [Personal Website](https://kiran-portfolio-omega.vercel.app/)
 - **Email:** kiraniitj26@gmail.com
